@@ -1,4 +1,5 @@
 ![Codebreakers logo2]()
+<img src="https://github.com/DanyHdz79/codebreakers/blob/main/Logos/2.png" width=450>
 
 ### Visión
 Crecer significativamente en la industria y posicionarse como uno de los competidores más atractivos en el mercado internacional, siendo líderes de proyectos innovadores que impacten positivamente en la sociedad e inspiren a las siguientes grandes ideas del mundo del software.
@@ -9,7 +10,10 @@ Nuestra misión es conformar un equipo de trabajo profesional, dedicado a la cre
 ### Nuestros valores
 Respeto, confianza, lealtad, responsabilidad, liderazgo, innovación.<br><hr>
 
+<img src="https://github.com/DanyHdz79/codebreakers/blob/main/Logos/1.png" width=100>
 
 ***Planeación de sistemas de software (TC3004B)***<br>
 *Feb-Jun 2022*<br>
 *Tecnológico de Monterrey Campus Puebla*
+
+
