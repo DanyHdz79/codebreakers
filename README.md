@@ -1,4 +1,4 @@
-![Codebreakers logo2]()
+
 <img src="https://github.com/DanyHdz79/codebreakers/blob/main/Logos/2.png" width=450>
 
 ### Visión
