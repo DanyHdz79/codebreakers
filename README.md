@@ -10,6 +10,14 @@ Nuestra misión es conformar un equipo de trabajo profesional, dedicado a la cre
 ### Nuestros valores
 Respeto, confianza, lealtad, responsabilidad, liderazgo, innovación.<br><hr>
 
+### Timelog
+Para llevar un registro de las horas de trabajo del equipo, se seleccionó la herramienta *Toggl track*, en donde diariamente cada integrante cronometrará su trabajo manera individual o anotará el tiempo dedicado a cada actividad relacionada con el proyecto. De esta forma, será posible analizar el esfuerzo invertido en cada área y por cada miembro del equipo. Semanalmente se hará una revisión del trabajo y progreso, con el fin de evaluar si el ritmo es adecuado o deberá modificarse de cierta forma para cubrir las tareas pendientes. 
+> Link a toggl: <https://track.toggl.com/reports/summary/6267844>
+
+### Defectlog
+También se llevará un registro de los obstáculos y problemas que vayan surgiendo en el proyecto, específicamente a nivel de código. Éstos serán registrados en el siguiente documento: [Defectlog](defectlog.md)
+<br><hr>
+
 <img src="https://github.com/DanyHdz79/codebreakers/blob/main/Logos/1.png" width=100>
 
 ***Planeación de sistemas de software (TC3004B)***<br>
