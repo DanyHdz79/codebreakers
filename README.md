@@ -19,17 +19,15 @@ También se llevará un registro de los obstáculos y problemas que vayan surgie
 <br><hr>
 
 ### Patrones de diseño
-Para este proyecto se usarán los siguientes patrones de desarrollo dependiendo del framework o idioma utilizado.
+Para este proyecto se usarán los siguientes patrones de desarrollo dependiendo del framework o idioma utilizado. Para leer la explicación extendida de estos patrones, es posible revisar la sección **'4.4 Patrones de diseño'** en el SDD. 
 
 *Backend (Django)*
 - Command
 - Observer
 - Template
 - Normalized models
-- User profiles
 - Custom model managers
 - Access controlled views
-- Active link
 - Property field
 
 *Frontend (Vue)*
