@@ -18,6 +18,24 @@ Para llevar un registro de las horas de trabajo del equipo, se seleccionó la he
 También se llevará un registro de los obstáculos y problemas que vayan surgiendo en el proyecto, específicamente a nivel de código. Éstos serán registrados en el siguiente documento: [Defectlog](defectlog.md)
 <br><hr>
 
+### Patrones de diseño
+Para este proyecto se usarán los siguientes patrones de desarrollo dependiendo del framework o idioma utilizado.
+
+*Backend (Django)*
+- Command
+- Observer
+- Template
+- Normalized models
+- User profiles
+- Custom model managers
+- Access controlled views
+- Active link
+- Property field
+
+*Frontend (Vue)*
+
+<br><hr>
+
 <img src="https://github.com/DanyHdz79/codebreakers/blob/main/Logos/1.png" width=100>
 
 ***Planeación de sistemas de software (TC3004B)***<br>
