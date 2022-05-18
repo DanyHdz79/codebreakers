@@ -31,8 +31,13 @@ Para este proyecto se usarán los siguientes patrones de desarrollo dependiendo 
 - Property field
 
 *Frontend (Vue)*
-
+- Testable forms
+- Renderless components
+- Modular components, v-model, and the Strategy
 <br><hr>
+
+### Servicios web
+Los servicios web se describen en este [documento](Actividad de aprendizaje 6_ Servicios web.pdf).
 
 <img src="https://github.com/DanyHdz79/codebreakers/blob/main/Logos/1.png" width=100>
 
