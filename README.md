@@ -37,7 +37,7 @@ Para este proyecto se usarán los siguientes patrones de desarrollo dependiendo 
 <br><hr>
 
 ### Servicios web
-Los servicios web se describen en el siguiente documento: ([Actividad de aprendizaje 6_ Servicios web.pdf](https://github.com/DanyHdz79/codebreakers/blob/main/Actividad%20de%20aprendizaje%206_%20Servicios%20web.pdf)).
+Los servicios web se describen en el siguiente documento: [Actividad de aprendizaje 6: Servicios web](https://github.com/DanyHdz79/codebreakers/blob/main/Actividad%20de%20aprendizaje%206_%20Servicios%20web.pdf).
 <br><hr>
 
 <img src="https://github.com/DanyHdz79/codebreakers/blob/main/Logos/1.png" width=100>
